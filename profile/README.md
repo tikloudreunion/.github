@@ -4,7 +4,7 @@
 
 Découvrez Ti Kloud Réunion, votre partenaire cloud local. Des solutions abordables, un support en créole et français, et une infrastructure adaptée aux besoins des étudiants de l'île.
 
-[Accéder à l'app](#) | [Découvrir nos offres](#)
+[Accéder à l'app](https://dashboard.tikloud.re) | [Découvrir nos offres](https://tikloud.re/#pricing)
 
 ## À propos
 
