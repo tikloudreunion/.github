@@ -1,7 +1,5 @@
 # Ti Kloud Réunion
 
-![Ti Kloud Réunion Logo](https://via.placeholder.com/150)
-
 **Le cloud pensé pour les étudiants réunionnais**
 
 Découvrez Ti Kloud Réunion, votre partenaire cloud local. Des solutions abordables, un support en créole et français, et une infrastructure adaptée aux besoins des étudiants de l'île.
